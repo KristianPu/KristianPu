@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KristianPu
-- 👀 I’m interested in backend programming
-- 🌱 I’m currently trying to make working textual blackjack, after that maybe with pygame a full fledged blackjack game.
-- 💞️ I’m looking to find a student programming job
+- 👀 I’m interested in backend programming and databases
+- 🌱 I’m currently working as Back Office Agent in Transcom
+- 💞️ I’m looking to find a student programming job, entry, junior or internship
 - 📫 How to reach me, email me on kristianpurgar@gmail.com.
 
 <!---
