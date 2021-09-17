@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @KristianPu
 - 👀 I’m interested in backend programming and databases
-- 🌱 I’m currently working as Back Office Agent in Transcom
-- 💞️ I’m looking to find a student programming job, entry, junior or internship
+- 🌱 I’m currently working as Application Support Engineer in Transcom
 - 📫 How to reach me, email me on kristianpurgar@gmail.com.
 
 <!---
