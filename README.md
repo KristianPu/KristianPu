@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KristianPu
-- 👀 I’m interested in backend programming and databases
+- 👀 I’m interested in backend programming, working in Node js
 - 🌱 I’m currently working as Application Support Engineer in Transcom
 - 📫 How to reach me, email me on kristianpurgar@gmail.com.
 
