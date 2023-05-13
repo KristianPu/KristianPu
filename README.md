@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @KristianPu
-- 👀 I’m interested in backend programming, working in Node js
-- 🌱 I’m currently working as Junior Software Engineer in Transcom
-- 📫 How to reach me, email me on kristianpurgar@gmail.com.
+- 👋 Hi, I’m Kristian
+- 👀 Node.js, Express.js, Nest.js
+- 🌱 Currently working as Software Engineer at Transcom
+- 📫 To reach me, email me on kristianpurgar@gmail.com.
 
 <!---
 KristianPu/KristianPu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
